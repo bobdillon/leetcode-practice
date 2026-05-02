@@ -3,8 +3,6 @@
 **Difficulty:** Medium  
 **Topic:** Hash Table, Design
 
-> ⚠️ **Note:** LeetCode #1797 is "Design Authentication Manager". The original plan referenced this as "Snapshot Array" — if you intended LeetCode #1146 (Snapshot Array), swap this file out. The problem below is #1797.
-
 ## Problem Statement
 
 There is an authentication system that works with authentication tokens. For each session, the user will request a new token which should be stored in memory. The token expires after `timeToLive` seconds after the latest renewal. If the token is renewed, the expiry time will be **extended** to expire `timeToLive` seconds after the (latest) renewal time.

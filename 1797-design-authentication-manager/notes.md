@@ -1,4 +1,4 @@
-# 1797. Snapshot Array — Post-Solve Notes
+# 1797. Design Authentication Manager — Post-Solve Notes
 
 ## Approach & Design Choices
 

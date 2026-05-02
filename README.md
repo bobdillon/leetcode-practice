@@ -3,7 +3,7 @@ practice for google May 11
 
 # LeetCode Practice for Google Interview
 
-## Problem Bank (15 problems)
+## Problem Bank (16 problems)
 
 ### Tier 1 — Design Problems (OOP focus, highest priority)
 - [ ] 146 - LRU Cache
@@ -22,9 +22,12 @@ practice for google May 11
 ### Tier 3 — OOP-flavored, Real-world
 - [ ] 1396 - Design Underground System
 - [ ] 1472 - Design Browser History
-- [ ] 1797 - Snapshot Array
+- [ ] 1146 - Snapshot Array
 - [ ] 355 - Design Twitter
 - [ ] 981 - Time Based Key-Value Store
+
+### Tier 4 — Bonus / Stretch
+- [ ] 1797 - Design Authentication Manager
 
 ## Scoring Rubric (what Claude evaluates on)
 - Class design (sensible boundaries, good naming)
@@ -38,3 +41,8 @@ practice for google May 11
 - No execution/testing — design focus
 - Talk out loud the whole time
 - Post-solve: write tradeoffs in notes.md
+
+## Session Log
+<!-- Format: YYYY-MM-DD (Day) - Problem - attempt # - one-line takeaway -->
+- 2026-05-02 (Sat) - LRU Cache - first attempt - struggled with doubly-linked-list pointer updates, got core right
+- 2026-05-05 (Tue) - LRU Cache - second attempt - cleaner, 38 lines, articulated O(1) tradeoff out loud
