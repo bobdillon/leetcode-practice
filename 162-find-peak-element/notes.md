@@ -1,4 +1,4 @@
-# 1600. Design Phone Directory — Post-Solve Notes
+# 162. Find Peak Element — Post-Solve Notes
 
 ## Approach & Design Choices
 
@@ -10,6 +10,9 @@
 
 
 ## Time & Space Complexity
+
+
+## Likely Follow-up Extensions
 
 
 ## What I'd Do Differently

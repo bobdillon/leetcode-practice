@@ -1,4 +1,4 @@
-# 1472. Design Browser History — Post-Solve Notes
+# 20. Valid Parentheses — Post-Solve Notes
 
 ## Approach & Design Choices
 
@@ -10,6 +10,9 @@
 
 
 ## Time & Space Complexity
+
+
+## Likely Follow-up Extensions
 
 
 ## What I'd Do Differently

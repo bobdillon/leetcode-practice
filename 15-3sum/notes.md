@@ -1,4 +1,4 @@
-# 1146. Snapshot Array — Post-Solve Notes
+# 15. 3Sum — Post-Solve Notes
 
 ## Approach & Design Choices
 
@@ -10,6 +10,9 @@
 
 
 ## Time & Space Complexity
+
+
+## Likely Follow-up Extensions
 
 
 ## What I'd Do Differently

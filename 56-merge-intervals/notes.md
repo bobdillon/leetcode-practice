@@ -1,4 +1,4 @@
-# 1396. Design Underground System — Post-Solve Notes
+# 56. Merge Intervals — Post-Solve Notes
 
 ## Approach & Design Choices
 
@@ -10,6 +10,9 @@
 
 
 ## Time & Space Complexity
+
+
+## Likely Follow-up Extensions
 
 
 ## What I'd Do Differently

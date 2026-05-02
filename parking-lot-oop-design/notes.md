@@ -1,4 +1,4 @@
-# 1797. Design Authentication Manager — Post-Solve Notes
+# Parking Lot OOP Design — Post-Solve Notes
 
 ## Approach & Design Choices
 
@@ -10,6 +10,9 @@
 
 
 ## Time & Space Complexity
+
+
+## Likely Follow-up Extensions
 
 
 ## What I'd Do Differently

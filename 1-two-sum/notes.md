@@ -1,4 +1,4 @@
-# 49. Group Anagrams — Post-Solve Notes
+# 1. Two Sum — Post-Solve Notes
 
 ## Approach & Design Choices
 
@@ -10,6 +10,9 @@
 
 
 ## Time & Space Complexity
+
+
+## Likely Follow-up Extensions
 
 
 ## What I'd Do Differently

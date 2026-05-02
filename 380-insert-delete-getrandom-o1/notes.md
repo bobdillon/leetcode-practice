@@ -1,4 +1,4 @@
-# 355. Design Twitter — Post-Solve Notes
+# 380. Insert Delete GetRandom O(1) — Post-Solve Notes
 
 ## Approach & Design Choices
 
@@ -10,6 +10,9 @@
 
 
 ## Time & Space Complexity
+
+
+## Likely Follow-up Extensions
 
 
 ## What I'd Do Differently
