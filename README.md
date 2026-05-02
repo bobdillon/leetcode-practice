@@ -44,5 +44,7 @@ practice for google May 11
 
 ## Session Log
 <!-- Format: YYYY-MM-DD (Day) - Problem - attempt # - one-line takeaway -->
+# Session Log Examples
 - 2026-05-02 (Sat) - LRU Cache - first attempt - struggled with doubly-linked-list pointer updates, got core right
-- 2026-05-05 (Tue) - LRU Cache - second attempt - cleaner, 38 lines, articulated O(1) tradeoff out loud
+- 2026-05-05 (Tue) - LRU Cache - second attempt - cleaner, 38 lines, articulated O(1) tradeoff out loud */
+# Session Log
