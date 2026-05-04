@@ -35,17 +35,6 @@ Each problem should be drilled with awareness of likely follow-up extensions (tr
 ### Tier 4 — Stretch / novel design muscle (1 problem)
 - Parking Lot OOP Design (no LeetCode number — original system design problem)
 
-## Dropped from previous bank
-The following were removed due to low likelihood based on frequency data:
-- 348 Design Tic-Tac-Toe
-- 1600 Design Phone Directory
-- 1396 Design Underground System
-- 1472 Design Browser History
-- 1146 Snapshot Array
-- 355 Design Twitter
-- 1797 Design Authentication Manager
-- 49 Group Anagrams
-
 Fine practice problems, but not where interview focus lands for this format. Revisit if time permits after core bank is solid.
 
 ## Scoring Rubric
