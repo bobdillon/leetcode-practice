@@ -10,6 +10,11 @@ Bank curated based on frequency analysis across recent interview reports:
 Each problem should be drilled with awareness of likely follow-up extensions (tracked in each `notes.md`).
 
 ## Problem Bank (16 problems)
+#### Tier 0?
+ - parking-lot-oop-design
+ - 146-lru-cache
+ - 362-design-hit-counter
+ - 380-insert-delete-getrandom-o1
 
 ### Tier 1 — Highest priority, drill heavily (6 problems)
 - 146 - LRU Cache
