@@ -7,7 +7,8 @@
 
 
 ## Edge Cases Considered
-
+since its always integers and a value cant be none, 
+is not none is ok 
 
 ## Time & Space Complexity
 
