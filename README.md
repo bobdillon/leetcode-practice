@@ -3,9 +3,9 @@
 ## Bank Rationale
 
 Problem bank curated based on Google interview frequency rankings (2025–2026).
-- **Tier 1**: "Very likely" per Google frequency data — drill heavily, multiple attempts
-- **Tier 2**: "Somewhat likely" — drill moderately, one solid attempt each
-- **Tier 3**: Previous bank problems retained in `tier-3/` folder for reference
+- **Tier 1**: "Very likely" per Google frequency data — drill heavily, multiple attempts → `tier-1/`
+- **Tier 2**: "Somewhat likely" — drill moderately, one solid attempt each → `tier-2/`
+- **Tier 3**: Previous bank problems retained for reference → `tier-3/`
 
 Each problem folder contains: `problem.md`, `notes.md`, `solution.py`
 
